@@ -1,0 +1,146 @@
+{
+  "version": "1",
+  "languages": [
+    { "id": "MARATHI", "name": "मराठी" },
+    { "id": "HINDI", "name": "हिंदी" },
+    { "id": "ENGLISH", "name": "English" },
+    { "id": "TELUGU", "name": "తెలుగు" },
+    { "id": "TAMIL", "name": "தமிழ்"}
+  ],
+  "data": [
+    {"id": "MARATHI",
+      "audio": [
+        {"title": "भाग १: आध्यात्मिक शेतीचे तत्वज्ञान", "URL": "http://archive.org/download/ZBNFmp3/01AadhyatmikSheticheTatvadnyan.mp3" },
+        {"title": "भाग २: विविध कृषी तंत्रज्ञान", "URL": "http://archive.org/download/ZBNFmp3/02VividhKrushiTantradnyan.mp3" },
+        {"title": "भाग ३: निसर्गाचं पोषण शास्त्र", "URL": "http://archive.org/download/ZBNFmp3/03NisargachePoshanSashtra.mp3" },
+        {"title": "भाग ४: नत्र, स्फुरद व पालाश", "URL": "http://archive.org/download/ZBNFmp3/04NatraSfuradPaalash.mp3" },
+        {"title": "भाग ५: देशी गाय आणि ३० एकरचं गणित", "URL": "http://archive.org/download/ZBNFmp3/05DeshiGaay-30AkarChGanit.mp3" },
+        {"title": "भाग ६: जीवामृत आणि घन जीवामृत", "URL": "http://archive.org/download/ZBNFmp3/06Jeevamrut-Ghanajeevamrut.mp3mp3" },
+        {"title": "भाग ७: बीजामृत आणि बीज निवड/संवर्धन", "URL": "http://archive.org/download/ZBNFmp3/07Beejamrut-BeejNivad.mp3" },
+        {"title": "भाग ८: वाफसा व पाणी-व्यवस्थापन", "URL": "http://archive.org/download/ZBNFmp3/08Waafasa.mp3" },
+        {"title": "भाग ९: आच्छादन", "URL": "http://archive.org/download/ZBNFmp3/09Aachaadan.mp3" },
+        {"title": "भाग १०: पिक संरक्षण (कीटक नाशकं)", "URL": "http://archive.org/download/ZBNFmp3/10PikSavrakshan.mp3" },
+        {"title": "भाग ११: जन आंदोलन", "URL": "http://archive.org/download/ZBNFmp3/11JanAandolan.mp3" },
+        {"title": "भाग १२: रोपवाटिका व भाजीपाला", "URL": "http://archive.org/download/ZBNFmp3/12RopvaatikaBhajipala.mp3" },
+        {"title": "भाग १३: पंचस्तरीय फळबाग", "URL": "http://archive.org/download/ZBNFmp3/13PanchaSthariyaFalbaag.mp3" },
+        {"title": "भाग १४: डाळिंब व द्राक्ष", "URL": "http://archive.org/download/ZBNFmp3/14DalimbDraksha.mp3" },
+        {"title": "भाग १५: संत्रा, मोसंबी, लिंबू, आवळा व पेरू", "URL": "http://archive.org/download/ZBNFmp3/15SantraMosambiLimbuAawalaPeru.mp3" },
+        {"title": "भाग १६: केळी आणि पपई", "URL": "http://archive.org/download/ZBNFmp3/16KeliPapai.mp3" },
+        {"title": "भाग १७: कापूस, तूर व सोयाबिन", "URL": "http://archive.org/download/ZBNFmp3/17KaapusTurSoyabin.mp3" },
+        {"title": "भाग १८: खरीप, रब्बी व उन्हाळ्यातील सर्व पिके", "URL": "http://archive.org/download/ZBNFmp3/18KharipRabbiUnnali-SarvPike.mp3" },
+        {"title": "भाग १९: हळद आणि आलं", "URL": "http://archive.org/download/ZBNFmp3/19HaladAdrak.mp3" },
+        {"title": "भाग २०: ऊस", "URL": "http://archive.org/download/ZBNFmp3/20Us.mp3" }
+      ],
+      "video": [
+        {
+          "heading": "काय आहे ही शेती पध्दती?",
+          "list": [
+            {"youtubevid": "Vd-dwOhNyG0", "title": "सुभाष पाळेकर यांचे व्याख्यान" },
+            {"youtubevid": "02tdKhNFt-A", "title": "नैसर्गिक शेती - काळाची गरज" },
+            {"youtubevid": "z9s1UM21kAE", "title": "विषमुक्त अन्न आणि प्रदूषणमुक्त हवा, पाणी - माझा जन्मसिध्द हक्क" }
+          ]
+        },
+        {
+          "heading": "संपूर्ण प्रशिक्षण (एकूण १९ भाग)",
+          "list": [
+            {"youtubevid": "GuKR_dOioGU", "title": "१) आध्यात्मिक शेतीचे तत्वज्ञान"},
+            {"youtubevid": "HfM43PdB358", "title": "२) विविध कृषी तंत्रज्ञान"},
+            {"youtubevid": "jGypUX9ydXk", "title": "३) आध्यात्मिक शेती आंदोलन"},
+            {"youtubevid": "PIYcXyT6_8A", "title": "४)  निसर्गाचं पोषण शास्त्र"},
+            {"youtubevid": "7cba3e5U7Do", "title": "५) नत्र, स्फुरद व पालाश"},
+            {"youtubevid": "HfM43PdB358", "title": "६) देशी गाय आणि ३० एकरचं गणित"},
+            {"youtubevid": "XF8W8qehWVU", "title": "२०) ऊस" }
+          ]
+        },
+        {
+          "heading": "चला पुन्हा निसर्गाकडे...",
+          "list": [
+            {"youtubevid": "75wkk1mdHIE", "title": "चला पुन्हा निसर्गाकडे - भाग 1"},
+            {"youtubevid": "M0KCfhx5H2M", "title": "चला पुन्हा निसर्गाकडे - भाग 2"},
+            {"youtubevid": "2vT5vqXcKeM", "title": "चला पुन्हा निसर्गाकडे - भाग 3"},
+            {"youtubevid": "xwe5T-N3wU0", "title": "चला पुन्हा निसर्गाकडे - भाग 4"}
+          ]
+        }
+      ]
+    },
+    { "id": "HINDI",
+      "audio": [
+        {"title": "भाग १: आध्यात्मिक कृषि का दर्शन", "URL": "http://archive.org/download/ZBNFHINDI/01-AadhyatmikKrushiKaDarshan.mp3" },
+        {"title": "भाग २: विविध कृषि पद्धतियाँ", "URL": "http://archive.org/download/ZBNFHINDI/02-VividhKrushiPadhateeya.mp3" },
+        {"title": "भाग ३: प्रकृति का पोषणशास्त्र", "URL": "http://archive.org/download/ZBNFHINDI/03-PrakrutiKaPoshanSashtra.mp3" },
+        {"title": "भाग ४: आध्यात्मिक कृषि के मूलतत्व", "URL": "http://archive.org/download/ZBNFHINDI/04-AadhyatmikKrushiKeMultatva.mp3" },
+        {"title": "भाग ५: एक देसी गाय से ३० एकड़ खेती", "URL": "http://archive.org/download/ZBNFHINDI/05-DeshiGaaySe30AkadKheti.mp3" },
+        {"title": "भाग ६: विविध समस्याऍ और उपाय", "URL": "http://archive.org/download/ZBNFHINDI/06-VividhSamasyayenAurUpay.mp3" },
+        {"title": "भाग ७: जीवामृत", "URL": "http://archive.org/download/ZBNFHINDI/07-Jeevamrut.mp3" },
+        {"title": "भाग ८: घन-जीवामृत", "URL": "http://archive.org/download/ZBNFHINDI/08-GhanaJeevamrut.mp3" },
+        {"title": "भाग ९: नत्र, स्फुरद और पालाश", "URL": "http://archive.org/download/ZBNFHINDI/09-NatraSfuradPaalash.mp3" },
+        {"title": "भाग १०: बीजामृत", "URL": "http://archive.org/download/ZBNFHINDI/10-Beejamrut.mp3" },
+        {"title": "भाग ११: आच्छादन", "URL": "http://archive.org/download/ZBNFHINDI/11-Aachaadan.mp3" },
+        {"title": "भाग १२: वाफसा और वृक्षाकार प्रबंधन", "URL": "http://archive.org/download/ZBNFHINDI/12-Waafasa.mp3" },
+        {"title": "भाग १३: जल प्रबंधन", "URL": "http://archive.org/download/ZBNFHINDI/13-JalPrabandhan.mp3" },
+        {"title": "भाग १४: फसल सुरक्षा", "URL": "http://archive.org/download/ZBNFHINDI/14-FasalSuraksha.mp3" },
+        {"title": "भाग १५: पंचस्तरीय बागवानी", "URL": "http://archive.org/download/ZBNFHINDI/15-PanchaSthariyaBaagwani.mp3" },
+        {"title": "भाग १६: सभी मौसमी फसलें", "URL": "http://archive.org/download/ZBNFHINDI/16-SabhiMousamiFasalen.mp3" },
+        {"title": "भाग १७: सब्जियाँ / कपास", "URL": "http://archive.org/download/ZBNFHINDI/17-SabjiyaKapaas.mp3" },
+        {"title": "भाग १८: धान", "URL": "http://archive.org/download/ZBNFHINDI/18-Dhaan.mp3" },
+        {"title": "भाग १९: अरहर (तुवर), हल्दी + मिर्च एवं आलू", "URL": "http://archive.org/download/ZBNFHINDI/19-ArharHaldiMirchAalu.mp3" },
+        {"title": "भाग २०: गन्ना", "URL": "http://archive.org/download/ZBNFHINDI/20-Ganna.mp3" }
+      ],
+      "video": [
+        {
+          "heading": "संक्षिप्त में छोटे विडिओ",
+          "list": [
+            {"youtubevid": "3zFnjyyggI0", "title": "देसी गाय कैसे पहचाने?" },
+            {"youtubevid": "sNZrwK2x3Zk", "title": "मिट्टी परिक्षण - कितना सही कितना झुट?" },
+            {"youtubevid": "uyw_CMqLIMc", "title": "क्या जैविक खेती स्वदेसी है ?" },
+            {"youtubevid": "AWJQSHAQNpg", "title": "कृषि महाभारत" },
+            {"youtubevid": "wxcTk01y4Qc", "title": "गोवर्धन पर्बत या गोबर धन पर्बत" },
+            {"youtubevid": "ljU5i6B-zq8", "title": "प्राकृतिक (आध्यात्मिक) खेती का शोध" }
+          ]
+        },
+        {
+          "heading": "संपूर्ण प्रशिक्षण (कुल २० भाग)",
+          "list": [
+            {"youtubevid": "6a8qINErMfU", "title": "१) आध्यात्मिक कृषि का दर्शन"},
+            {"youtubevid": "sLHt88dfA0I", "title": "२) विविध कृषि पद्धतियाँ"}
+
+          ]
+        }
+      ]
+    },
+    {"id":"ENGLISH",
+      "video": [
+        {
+          "heading": "Important Speeches",
+          "list": [
+            {"youtubevid": "kH0hizy_zCQ", "title": "Need of Poison Free Food & Terrace garden" },
+            {"youtubevid": "1_gLo44bG-U", "title": "Farming Problems & Solutions For Farmers" }
+          ]
+        },
+        {
+          "heading": "Complete Training (13 parts)",
+          "list": [
+            {"youtubevid": "wY_aba798nk", "title": "1) Opening speech"},
+            {"youtubevid": "Z41FOo-epn0", "title": "2) Global warming & climate change"},
+            {"youtubevid": "UpjjdlSB5Ik", "title": "3) Different farming methodologies" },
+            {"youtubevid": "gfbxDGFi3qk", "title": "4) What is SPNF (ZBNF)" },
+            {"youtubevid": "OkxhZDvD4sM", "title": "5) Jeevamrut, Ghan-Jeevamrut & Beejamrut" },
+            {"youtubevid": "cb4HwMGjw14", "title": "13) Question & answer" }
+          ]
+        }
+      ]
+    },
+    {"id" : "TELUGU",
+      "audio": [],
+      "video": []
+    },
+    {"id" : "TAMIL",
+      "audio": [
+        {"title": "भाग १: आध्यात्मिक शेतीचे तत्वज्ञान", "URL": "http://archive.org/download/ZBNFmp3/01AadhyatmikSheticheTatvadnyan.mp3" },
+        {"title": "भाग २: विविध कृषी तंत्रज्ञान", "URL": "http://archive.org/download/ZBNFmp3/02VividhKrushiTantradnyan.mp3" },
+        {"title": "भाग ३: निसर्गाचं पोषण शास्त्र", "URL": "http://archive.org/download/ZBNFmp3/03NisargachePoshanSashtra.mp3" }
+      ],
+      "video": []
+    }
+  ]
+}
